@@ -7,7 +7,7 @@ A pretty simplified Docker Compose workflow that sets up a LEMP network of conta
 `MailHog`
 
 
-## Usage
+## Usage `skype: sajal.efran`
 
 To get started, make sure you have [Docker installed](https://docs.docker.com/docker-for-mac/install/) on your system, and then clone this repository.
 
